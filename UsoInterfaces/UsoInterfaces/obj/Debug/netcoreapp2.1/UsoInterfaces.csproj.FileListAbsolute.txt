@@ -1,0 +1,11 @@
+C:\Users\carrascoja\source\repos\UsoInterfaces\UsoInterfaces\obj\Debug\netcoreapp2.1\UsoInterfaces.csprojAssemblyReference.cache
+C:\Users\carrascoja\source\repos\UsoInterfaces\UsoInterfaces\obj\Debug\netcoreapp2.1\UsoInterfaces.csproj.CoreCompileInputs.cache
+C:\Users\carrascoja\source\repos\UsoInterfaces\UsoInterfaces\obj\Debug\netcoreapp2.1\UsoInterfaces.AssemblyInfoInputs.cache
+C:\Users\carrascoja\source\repos\UsoInterfaces\UsoInterfaces\obj\Debug\netcoreapp2.1\UsoInterfaces.AssemblyInfo.cs
+C:\Users\carrascoja\source\repos\UsoInterfaces\UsoInterfaces\bin\Debug\netcoreapp2.1\UsoInterfaces.deps.json
+C:\Users\carrascoja\source\repos\UsoInterfaces\UsoInterfaces\bin\Debug\netcoreapp2.1\UsoInterfaces.runtimeconfig.json
+C:\Users\carrascoja\source\repos\UsoInterfaces\UsoInterfaces\bin\Debug\netcoreapp2.1\UsoInterfaces.runtimeconfig.dev.json
+C:\Users\carrascoja\source\repos\UsoInterfaces\UsoInterfaces\bin\Debug\netcoreapp2.1\UsoInterfaces.dll
+C:\Users\carrascoja\source\repos\UsoInterfaces\UsoInterfaces\bin\Debug\netcoreapp2.1\UsoInterfaces.pdb
+C:\Users\carrascoja\source\repos\UsoInterfaces\UsoInterfaces\obj\Debug\netcoreapp2.1\UsoInterfaces.dll
+C:\Users\carrascoja\source\repos\UsoInterfaces\UsoInterfaces\obj\Debug\netcoreapp2.1\UsoInterfaces.pdb
